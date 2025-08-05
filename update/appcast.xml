@@ -4,10 +4,10 @@
     <channel>
         <title>UniSpaceHub</title>
         <item>
-            <title>Version 0.0.5</title>
+            <title>Version 0.0.4</title>
             <sparkle:os>macos</sparkle:os>
-            <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
-            <sparkle:version>0.0.5</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:version>0.0.4</sparkle:version>
             <description>New Update.</description>
             <pubDate>Tue, 5/8/2025 21:28:42 +0000</pubDate>
             <sparkle:tags>
