@@ -7,16 +7,16 @@
             <title>Version 0.0.5</title>
             <sparkle:os>macos</sparkle:os>
             <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>0.0.5</sparkle:version>
             <description>New Update.</description>
-            <pubDate>Tue, 5/8/2025 20:11:17 +0000</pubDate>
+            <pubDate>Tue, 5/8/2025 21:28:42 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.unispacehub.com/unispacehub_macos_0.0.5_e.zip"
-                  sparkle:edSignature="bTvhsKuUs/douyd51M6FeOerV2NCWKWNRFxElgttjNfv5ARiNJO9csHdMr7MQACCxTE8J+MxdXhgxPOr8brqAw=="
+            <enclosure url="https://downloads.unispacehub.com/unispacehub_macos_0.0.5_r.zip"
+                  sparkle:edSignature="uddM5HbaGxKXZ5Zgx331tzGsjOVO7A2SDl7LjreRWNtI4zcBD4oiQiq+aVzKjx2noslLtov1CTuulg4e+UrXCQ=="
                   sparkle:os="macos"
-                  length="85189924"
+                  length="85189674"
                   type="application/octet-stream" />
         </item>
     </channel>
