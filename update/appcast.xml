@@ -22,17 +22,17 @@
         <item>
             <title>Version 0.0.4</title>
             <sparkle:os>windows</sparkle:os>
-            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>0.0.4+1</sparkle:version>
+            <sparkle:shortVersionString>0.0.4+1</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Tue, 5/8/2025 21:28:42 +0000</pubDate>
+            <pubDate>Thu, 7/8/2025 22:13:22 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.unispacehub.com/unispacehub_macos_0.0.5_r.zip"
-                  sparkle:edSignature="uddM5HbaGxKXZ5Zgx331tzGsjOVO7A2SDl7LjreRWNtI4zcBD4oiQiq+aVzKjx2noslLtov1CTuulg4e+UrXCQ=="
-                  sparkle:os="macos"
-                  length="85189674"
+            <enclosure url="https://downloads.unispacehub.com/unispacehub_windows_0.0.4.exe"
+                  sparkle:dsaSignature="MD0CHQCPQ4G++wwdXcPTwJC0oG8ShWbLnXV4axyy+1E8AhwkRDnDzoBSV7zcDiWH9PgY2B07yww9YkSlUuf2"
+                  sparkle:os="windows"
+                  length="0"
                   type="application/octet-stream" />
         </item>
     </channel>
