@@ -2,21 +2,21 @@
 <rss version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>UniSpaceHub</title>
+        <title>VertoXR</title>
         <item>
             <title>Version 0.0.4</title>
             <sparkle:os>macos</sparkle:os>
-            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Tue, 5/8/2025 21:28:42 +0000</pubDate>
+            <pubDate>Sun, 24/8/2025 16:50:18 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.unispacehub.com/unispacehub_macos_0.0.5_r.zip"
-                  sparkle:edSignature="uddM5HbaGxKXZ5Zgx331tzGsjOVO7A2SDl7LjreRWNtI4zcBD4oiQiq+aVzKjx2noslLtov1CTuulg4e+UrXCQ=="
+            <enclosure url="https://downloads.vertoxr.com/vertoxr_macos_0.0.4.zip"
+                  sparkle:edSignature="FLTlwR9OvjEuZRoJiAzKotQroLgzhVecvmWFAsbqUlpsXHC8lVnzVGlZyMhh+2wLVGqY3kNP6Pc/MxWjWsa8CQ=="
                   sparkle:os="macos"
-                  length="85189674"
+                  length="90228096"
                   type="application/octet-stream" />
         </item>
         <item>
