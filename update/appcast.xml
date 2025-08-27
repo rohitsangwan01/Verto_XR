@@ -9,14 +9,14 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Sun, 24/8/2025 16:50:18 +0000</pubDate>
+            <pubDate>Wed, 27/8/2025 21:56:41 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
             <enclosure url="https://downloads.vertoxr.com/vertoxr_macos_0.0.4.zip"
-                  sparkle:edSignature="FLTlwR9OvjEuZRoJiAzKotQroLgzhVecvmWFAsbqUlpsXHC8lVnzVGlZyMhh+2wLVGqY3kNP6Pc/MxWjWsa8CQ=="
+                  sparkle:edSignature="9uWPLBMXNRr6mxm+aN65vO0mXDhZfluwib9R3mLm71E4HnukwhVjvmP9ece4LkYVU2hek6xbibXpoIAu1ftQCA=="
                   sparkle:os="macos"
-                  length="90228096"
+                  length="90130295"
                   type="application/octet-stream" />
         </item>
         <item>
