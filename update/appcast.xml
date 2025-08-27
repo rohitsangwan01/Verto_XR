@@ -25,12 +25,12 @@
             <sparkle:version>0.0.4+1</sparkle:version>
             <sparkle:shortVersionString>0.0.4+1</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Thu, 7/8/2025 22:13:22 +0000</pubDate>
+            <pubDate>Wed, 27/8/2025 22:04:12 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.unispacehub.com/unispacehub_windows_0.0.4.exe"
-                  sparkle:dsaSignature="MD0CHQCPQ4G++wwdXcPTwJC0oG8ShWbLnXV4axyy+1E8AhwkRDnDzoBSV7zcDiWH9PgY2B07yww9YkSlUuf2"
+            <enclosure url="https://downloads.vertoxr.com/vertoxr_windows_0.0.4.exe"
+                  sparkle:dsaSignature="MD0CHDASrrAI7a7XSGpGh6El0+wc9sQk692qL30SitQCHQCtwnyC9+C7E1yqYTajhpBWt04ocw9gJyAO7N0k"
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
