@@ -4,20 +4,20 @@
     <channel>
         <title>VertoXR</title>
         <item>
-            <title>Version 0.0.5</title>
+            <title>Version 0.0.6</title>
             <sparkle:os>macos</sparkle:os>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Sun, 21/9/2025 22:00:10 +0000</pubDate>
+            <pubDate>Thu, 1/1/2026 19:00:52 +0000</pubDate>
             <sparkle:tags>
-                <sparkle:criticalUpdate />
+                <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.0.5/vertoxr_macos_0.0.5.zip"
-                sparkle:edSignature="OlaxSTPpM62NVWSYA/RzzBJPZ5dkcjT5Qnug9xoC2A6+QCc69+iXgP1EZ45F53B67Du+PTa4a4DkuUO4xfPZBQ=="
-                sparkle:os="macos"
-                length="98299338"
-                type="application/octet-stream" />
+            <enclosure url="https://downloads.vertoxr.com/0.0.6/vertoxr_macos_0.0.6.zip"
+                  sparkle:edSignature="oHtQWbb/Zv5wG/8pl+nD5E90T2G+DD67tbsY7i1Qa1NX//cPx0iV1JtSPyThK/lJ3/RfaA0FvkRgyxjLawGSBA=="
+                  sparkle:os="macos"
+                  length="107507969"
+                  type="application/octet-stream" />
         </item>
         <item>
             <title>Version 0.0.5</title>
