@@ -25,12 +25,12 @@
             <sparkle:version>0.0.6+4</sparkle:version>
             <sparkle:shortVersionString>0.0.6+4</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Thu, 1/1/2026 19:24:45 +0000</pubDate>
+            <pubDate>Thu, 1/1/2026 20:36:28 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
             <enclosure url="https://downloads.vertoxr.com/0.0.6/vertoxr_windows_0.0.6.exe"
-                  sparkle:dsaSignature="MD4CHQCtKBXwtHDQ8hqnkdsE0lWrjGFFAih2yadoY4mtAh0AvD6bINLfgHmqMwjmKnwgHxGFvlYgdn2bzpVf+w=="
+                  sparkle:dsaSignature="MD4CHQCHrp8dhWEQZr2+BG1ERIUIOG77PS+hiTJ4QfoxAh0A2Hrt5FjRM9eiz2jml9AtS6/E6u3cGldEs5RkUg=="
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
