@@ -13,7 +13,7 @@
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.0.6/vertoxr_macos_0.0.6.zip"
+            <enclosure url="https://downloads.vertoxr.com/0.0.6/vertoxr_macos_0.0.6_v2.zip"
                   sparkle:edSignature="1ayZ0NjL3jD1ZmNtxWPUSAwXPwpuK02Y2bDDi5AYWHvkxgX253bU6rtVImIEPvX6FOvOs28jtk0FFGYEb1eiAA=="
                   sparkle:os="macos"
                   length="107509188"
