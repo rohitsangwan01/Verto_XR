@@ -20,17 +20,17 @@
                   type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 0.1.0</title>
+            <title>Version 0.2.0</title>
             <sparkle:os>windows</sparkle:os>
-            <sparkle:version>0.1.0+8</sparkle:version>
-            <sparkle:shortVersionString>0.1.0+8</sparkle:shortVersionString>
+            <sparkle:version>0.2.0+9</sparkle:version>
+            <sparkle:shortVersionString>0.2.0+9</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Sun, 1/3/2026 14:19:53 +0000</pubDate>
+            <pubDate>Sun, 8/3/2026 23:12:14 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.1.0/vertoxr_windows_0.1.0.exe"
-                  sparkle:dsaSignature="MD4CHQC8NaPuyE404M4CmVRMKWnblIywMDBqVUvVUpZsAh0AnI/MXm/taNSyn1rKpKqCSNHwlkBp1inHfOiiRg=="
+            <enclosure url="https://downloads.vertoxr.com/0.2.0/vertoxr_windows_0.2.0.exe"
+                  sparkle:dsaSignature="MD0CHQCzvyR0Y8FquVDCAyWNlgFyT0NgoAYfny5dIwShAhxSJ7ViFtJIdycFDCnY4oXkaH23T8oLFXlEouJ+"
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
