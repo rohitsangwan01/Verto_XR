@@ -9,6 +9,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <description>New Update.</description>
+            <sparkle:releaseNotesLink>${mac.changelog}</sparkle:releaseNotesLink>
             <pubDate>Mon, 1/6/2026 16:09:22 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
@@ -25,6 +26,7 @@
             <sparkle:version>0.2.1+10</sparkle:version>
             <sparkle:shortVersionString>0.2.1+10</sparkle:shortVersionString>
             <description>New Update.</description>
+            <sparkle:releaseNotesLink>${mac.changelog}</sparkle:releaseNotesLink>
             <pubDate>Mon, 1/6/2026 16:12:13 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
