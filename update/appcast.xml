@@ -26,13 +26,13 @@
             <sparkle:version>0.2.1+10</sparkle:version>
             <sparkle:shortVersionString>0.2.1+10</sparkle:shortVersionString>
             <description>New Update.</description>
-            <sparkle:releaseNotesLink>${mac.changelog}</sparkle:releaseNotesLink>
             <pubDate>Mon, 1/6/2026 16:12:13 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
             <enclosure url="https://downloads.vertoxr.com/0.2.1/vertoxr_windows_0.2.1.exe"
-                  sparkle:dsaSignature="MDwCHHIBfKC0lYKZmQJNYM7+c/xGS6NA/RxKaAbFr/gCHFRHuHnO2hIyYK+gvI+B\ncNZtqkZc+Yhl7244Z3E="
+                  sparkle:dsaSignature="MDwCHHIBfKC0lYKZmQJNYM7+c/xGS6NA/RxKaAbFr/gCHFRHuHnO2hIyYK+gvI+B
+cNZtqkZc+Yhl7244Z3E="
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
