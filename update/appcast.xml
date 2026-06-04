@@ -4,35 +4,36 @@
     <channel>
         <title>VertoXR</title>
         <item>
-            <title>Version 0.2.1</title>
+            <title>Version 0.2.2</title>
             <sparkle:os>macos</sparkle:os>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <description>New Update.</description>
-            <sparkle:releaseNotesLink>${mac.changelog}</sparkle:releaseNotesLink>
-            <pubDate>Mon, 1/6/2026 16:09:22 +0000</pubDate>
+            <pubDate>Thu, 4/6/2026 23:13:11 +0000</pubDate>
+            <sparkle:releaseNotesLink>"https://docs.vertoxr.com/changelog/022"</sparkle:releaseNotesLink>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.2.1/vertoxr_macos_0.2.1.zip"
-                  sparkle:edSignature="N6pcdDzRWnS3NLr3WTUTkRoTmQc9R+dW0lZQ5sgF+zgzMKybS9Rv5YRTdfUXYqDHFoV7cD8DqZDJ+mfMawZ4AQ=="
+            <enclosure url="https://downloads.vertoxr.com/0.2.2/vertoxr_macos_0.2.2.zip"
+                  sparkle:edSignature="8K1MVA8pQFDlviBBYgkaOjLAJwnkkz6R7X8AMNjuAJpfUXoBUqPpcpGWsvLNCjtTNxYcPoO1KmivTzVqUxs3Dw=="
                   sparkle:os="macos"
-                  length="125274145"
+                  length="125360109"
                   type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 0.2.1</title>
+            <title>Version 0.2.2</title>
             <sparkle:os>windows</sparkle:os>
-            <sparkle:version>0.2.1+10</sparkle:version>
-            <sparkle:shortVersionString>0.2.1+10</sparkle:shortVersionString>
+            <sparkle:version>0.2.2+11</sparkle:version>
+            <sparkle:shortVersionString>0.2.2+11</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Mon, 1/6/2026 16:12:13 +0000</pubDate>
+            <pubDate>Thu, 4/6/2026 22:53:11 +0000</pubDate>
+            <sparkle:releaseNotesLink>"https://docs.vertoxr.com/changelog/022"</sparkle:releaseNotesLink>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.2.1/vertoxr_windows_0.2.1.exe"
-                  sparkle:dsaSignature="MDwCHHIBfKC0lYKZmQJNYM7+c/xGS6NA/RxKaAbFr/gCHFRHuHnO2hIyYK+gvI+B
-cNZtqkZc+Yhl7244Z3E="
+            <enclosure url="https://downloads.vertoxr.com/0.2.2/vertoxr_windows_0.2.2.exe"
+                  sparkle:dsaSignature="MD4CHQC8KtAsAFvqSoyzs8FRqT18R19X6FH0eHz5xAO8Ah0AsFY/S5m/cbGUy4qd
+VuD5s+CSBzhfi2Y+GQFU4Q=="
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
