@@ -9,31 +9,28 @@
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Thu, 4/6/2026 23:13:11 +0000</pubDate>
-            <sparkle:releaseNotesLink>"https://docs.vertoxr.com/changelog/022"</sparkle:releaseNotesLink>
+            <pubDate>Fri, 5/6/2026 22:40:25 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
             <enclosure url="https://downloads.vertoxr.com/0.2.2/vertoxr_macos_0.2.2.zip"
-                  sparkle:edSignature="8K1MVA8pQFDlviBBYgkaOjLAJwnkkz6R7X8AMNjuAJpfUXoBUqPpcpGWsvLNCjtTNxYcPoO1KmivTzVqUxs3Dw=="
+                  sparkle:edSignature="+W9tE/R8u5TrKt1a9EbbjD9deKmQXiTAoKmwu8w2M7fJ703CQF313XU7+MZH/zwtXAiqgpcfYQhXrWOjRrUADw=="
                   sparkle:os="macos"
-                  length="125360109"
+                  length="125372366"
                   type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 0.2.2</title>
+            <title>Version 0.2.4</title>
             <sparkle:os>windows</sparkle:os>
-            <sparkle:version>0.2.2+11</sparkle:version>
-            <sparkle:shortVersionString>0.2.2+11</sparkle:shortVersionString>
+            <sparkle:version>0.2.4+12</sparkle:version>
+            <sparkle:shortVersionString>0.2.4+12</sparkle:shortVersionString>
             <description>New Update.</description>
-            <pubDate>Thu, 4/6/2026 22:53:11 +0000</pubDate>
-            <sparkle:releaseNotesLink>"https://docs.vertoxr.com/changelog/022"</sparkle:releaseNotesLink>
+            <pubDate>Fri, 5/6/2026 22:14:49 +0000</pubDate>
             <sparkle:tags>
                 <sparkle:criticalUpdate/>
             </sparkle:tags>
-            <enclosure url="https://downloads.vertoxr.com/0.2.2/vertoxr_windows_0.2.2.exe"
-                  sparkle:dsaSignature="MD4CHQC8KtAsAFvqSoyzs8FRqT18R19X6FH0eHz5xAO8Ah0AsFY/S5m/cbGUy4qd
-VuD5s+CSBzhfi2Y+GQFU4Q=="
+            <enclosure url="https://downloads.vertoxr.com/0.2.4/vertoxr_windows_0.2.4.exe"
+                  sparkle:dsaSignature="MDwCHDBXTJ9u5ULN+TapBTtB8cfmRDNkj5IoeRSz8noCHApz5ijwzS88I64efcuPN9qaLf3t1qebUle95zM="
                   sparkle:os="windows"
                   length="0"
                   type="application/octet-stream" />
